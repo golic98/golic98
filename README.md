@@ -1,5 +1,5 @@
 ## Hi my name is Gerardo Olivares 👋
-
+<h1 align="center">Hi my name is Gerardo Olivares 👋<a href="https://github.com/golic98/golic98" target="blank"></a></h1>
 <!--
 **golic98/golic98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
