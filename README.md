@@ -1,9 +1,5 @@
 <h1 align="center">Hi friend👋, I'm <a href="https://github.com/golic98/golic98" target="blank">Gerardo</a></h1>
 <!--
-**golic98/golic98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I am currently a computer engineering student at the Central American University Jose Simeon Cañas in El Salvador .\
@@ -30,6 +26,9 @@ Here are some ideas to get you started:
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+**golic98/golic98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on ...
