@@ -7,7 +7,7 @@
 👨‍💻 &nbsp;I am currently an assistant at https://medialite.org/ in the web hosting administration department .\
 👨‍💻 &nbsp;I am passionate about API development, working with frameworks such as Node JS, Java, and PHP .\
 
-### 🛠 &nbsp;Tool set
+### 🛠 &nbsp;Tool Set
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
